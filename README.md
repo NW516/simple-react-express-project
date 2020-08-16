@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I followed a tutorial to set up the Express server using Node, create the basic React app and wire up the UI to the back end.  I plan to add some more functionality to this project to make it a bit more interesting.
 
 ## Available Scripts
 
